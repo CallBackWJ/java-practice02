@@ -42,9 +42,4 @@ public class Prob05 {
 
 	}
 
-	public static boolean checkNum(int num) {
-		return false;
-
-	}
-
 }
