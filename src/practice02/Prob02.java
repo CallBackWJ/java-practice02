@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Prob02 {
 
 	public static void main(String[] args) {
+		@SuppressWarnings("resource")
 		Scanner in = new Scanner( System.in );
         int intArray[] = new int[5];
         double sum = 0;
